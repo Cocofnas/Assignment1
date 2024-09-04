@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\bin\Debug\net8.0\Assignment1consoleapplications.exe
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\bin\Debug\net8.0\Assignment1consoleapplications.deps.json
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\bin\Debug\net8.0\Assignment1consoleapplications.runtimeconfig.json
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\bin\Debug\net8.0\Assignment1consoleapplications.dll
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\bin\Debug\net8.0\Assignment1consoleapplications.pdb
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.dll
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\refint\Assignment1consoleapplications.dll
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.pdb
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\Assignment1consoleapplications.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Skrivbord\MalmöC#\Assignment1consoleapplications\obj\Debug\net8.0\ref\Assignment1consoleapplications.dll
